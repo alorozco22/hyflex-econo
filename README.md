@@ -1,5 +1,5 @@
-# FAQ Virtualización Comité de Docencia
-Esta es una adaptación de la plantilla de preguntas frecuentes cuya documentación original se encuentra abajo. Tiene el propósito pedagógico de consolidar información relacionada con herramientas para virutalización de cursos durante la coyuntura del COVID-19 y posteriormente. Elaborada para el Comité de Docencia de la Facultad de Economía de la Universidad de los Andes.
+# Tips HyFlex Comité de Docencia
+Esta es una adaptación de la plantilla de preguntas frecuentes cuya documentación original se encuentra abajo. Tiene el propósito pedagógico de consolidar información relacionada con buenas prácticas y tips para la metodología híbrida / HyFlex durante la coyuntura del COVID-19 y posteriormente. Elaborada para el Comité de Docencia de la Facultad de Economía de la Universidad de los Andes.
 
 Alfredo Orozco
 Asistente del Comité
